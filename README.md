@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ilyes Jaouadi</h1>
-<h3 align="center">A multidisciplinary engineering student at EPT</h3>
+<h1 align="center">Hi 👋, I'm Ilyes Jaouedi</h1>
+<h3 align="center">A multidisciplinary engineer and a PhD candidate at L2S</h3>
 
-- 🔭 I’m currently working on **LiDAR and Camera Data Fusion**
+- 🔭 I’m currently working on **RADAR and Camera sensors Fusion**
 
-- 🌱 I’m currently learning **Computer Vision and 3D visualization**
+- 🌱 I’m currently learning **Computer Vision and Optimal mass Transportation**
 
 - 📫 How to reach me **ilyes.jaouedi@ept.ucar.tn**
 
